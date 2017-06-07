@@ -1,0 +1,8 @@
+﻿V:\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(显示当前时间.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  source.cpp
+g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(3): warning C4603: “HAVE_STRUCT_TIMESPEC”: 未定义宏或在预编译头使用后定义发生改变
+  g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(3): note: 将宏添加到预编译头中，而不是在此处定义
+  g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(4): note: 使用预编译头
+g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(365): warning C4101: “requestStr”: 未引用的局部变量
+  显示当前时间.vcxproj -> G:\专业课程学习\Tank\TANKClient\Debug\tank_client.exe
+  显示当前时间.vcxproj -> G:\专业课程学习\Tank\TANKClient\Debug\tank_client.pdb (Partial PDB)

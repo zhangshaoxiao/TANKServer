@@ -1,0 +1,12 @@
+﻿  source.cpp
+g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(3): warning C4603: “HAVE_STRUCT_TIMESPEC”: 未定义宏或在预编译头使用后定义发生改变
+  g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(3): note: 将宏添加到预编译头中，而不是在此处定义
+  g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(4): note: 使用预编译头
+g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(64): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(65): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(51): warning C4101: “requestStr”: 未引用的局部变量
+g:\专业课程学习\tank\tankclient\显示当前时间\source.cpp(209): warning C4101: “now_time”: 未引用的局部变量
+source.obj : error LNK2019: 无法解析的外部符号 __imp_pthread_create，该符号在函数 wWinMain 中被引用
+G:\pthread\Pre-built.2\lib\pthreadVC2.lib : warning LNK4272: 库计算机类型“X86”与目标计算机类型“x64”冲突
+G:\专业课程学习\Tank\TANKClient\x64\Debug\tank_client.exe : fatal error LNK1120: 1 个无法解析的外部命令
